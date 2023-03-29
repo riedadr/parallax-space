@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="mars" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3840 2160">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #dc2626;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="3493.5" cy="1002.5" r="37.5"/>
+</svg>

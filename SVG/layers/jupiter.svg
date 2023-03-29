@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="jupiter" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3840 2160">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fed7aa;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="2239.5" cy="473.5" r="100.5"/>
+</svg>

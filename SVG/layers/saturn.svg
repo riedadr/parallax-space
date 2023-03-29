@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="saturn" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3840 2160">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #9a3412;
+        stroke-miterlimit: 10;
+        stroke-width: 15px;
+      }
+
+      .cls-2 {
+        fill: #f97316;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M550.39,387.09c16.34,35.04,1.18,76.69-33.86,93.02-35.04,16.34-76.69,1.18-93.02-33.86"/>
+  <ellipse class="cls-1" cx="488.73" cy="416.95" rx="110" ry="17.5" transform="translate(-130.42 245.61) rotate(-25)"/>
+  <path class="cls-2" d="M423.89,447.08c-16.34-35.04-1.18-76.69,33.86-93.02,35.04-16.34,76.69-1.18,93.02,33.86"/>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="venus" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3840 2160">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fb923c;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="1235" cy="1354" r="60"/>
+</svg>
